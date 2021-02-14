@@ -5,8 +5,4 @@ hi2
 hi3
 hi4
 hi5
-<<<<<<< HEAD
-much of a problem
-=======
-trouble
->>>>>>> verybad
+some
